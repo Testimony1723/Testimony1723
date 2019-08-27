@@ -13,5 +13,5 @@
 *  python2 run.py
 
 *Features*
-*  Dump All Vulnerabe Yahoo Email
+*  Dump All Vulnerable Yahoo Email
 *  Auto Saved Scan Data
